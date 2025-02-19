@@ -2,6 +2,7 @@
 Unity Based Game created by Antariksh Sarmah
 
 ![Game Banner](https://github.com/AntSpace14/PIZZA_VERSE/blob/main/SPIDY-clear.png)
+![Game Banner](https://github.com/AntSpace14/PIZZA_VERSE/blob/main/bullymaguire.png)
 
 ## 🚀 Overview
 PIZZA_VERSE is an arcade mini-game developed in Unity. This project showcases simple but creative and nostalgic (for Spidy fans!) elements to immerse yourselves in, with a narrative progression.  
@@ -22,7 +23,7 @@ When Spidey fails to deliver pizzas, he entrusts the player (you!) to deliver th
 ## 📂 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/repository-name.git
+   [git clone https://github.com/AntSpace14/PIZZA_VERSE.git]
    
 2. Open the project in Unity named as 'Materials'.
 
