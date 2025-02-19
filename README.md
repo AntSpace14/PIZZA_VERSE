@@ -2,7 +2,7 @@
 Unity Based Game created by Antariksh Sarmah
 
 ![Game Banner](https://github.com/AntSpace14/PIZZA_VERSE/blob/main/SPIDY-clear.png)
-![Game Banner](https://github.com/AntSpace14/PIZZA_VERSE/blob/main/bullymaguire.gif)
+![Game Banner](https://github.com/AntSpace14/PIZZA_VERSE/blob/main/bully1.png)
 
 ## 🚀 Overview
 PIZZA_VERSE is an arcade mini-game developed in Unity. This project showcases simple but creative and nostalgic (for Spidy fans!) elements to immerse yourselves in, with a narrative progression.  
