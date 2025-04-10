@@ -35,6 +35,6 @@ When Spidey fails to deliver pizzas, he entrusts the player (you!) to deliver th
 2. Open the project in Unity named as 'Materials'.
 
 ## 🎮PLAY THE GAME!
-Open the folder named 22BCY10168_PIZZA_VERSE and run the .exe file <br>
+Open the folder named PIZZA VERSE and run the .exe file <br>
 (Note: Would suggest to change the resolution to 1280*720 for optimised gameplay) <br>
 (To close the game use alt+enter)
