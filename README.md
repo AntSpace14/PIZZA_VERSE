@@ -24,7 +24,7 @@ When Spidey fails to deliver pizzas, he entrusts the player (you!) to deliver th
 ![Game Banner](https://github.com/AntSpace14/PIZZA_VERSE/blob/main/Screenshot(1768).png)
 
 ## 🛠️ Technologies Used
-- 🎮 **Unity** (Version X.X.X)
+- 🎮 **Unity** 
 - 💻 **C#** for scripting
 
 ## 📂 Installation & Setup
